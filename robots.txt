@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://build-error.github.io/al-folio/sitemap.xml
+Sitemap: https://build-error.github.io//sitemap.xml
